@@ -1,6 +1,8 @@
 # Deep-Learning---ANN-
 Project Title: Bank Customer Churn Prediction using ANN
 
+The aim of this project is to predict whether a bank customer will churn (leave the bank) based on their demographic and account-related details. Customer churn prediction is crucial for banks to retain customers, reduce revenue loss, and improve customer satisfaction by identifying at-risk customers and taking proactive measures.
+
 # Customer Churn Prediction using Artificial Neural Networks (ANN)
 
 ## Project Overview
