@@ -118,13 +118,6 @@ print(f"Test Accuracy: {test_acc:.2f}")
 
 This ANN model effectively predicts customer churn based on historical data. Feature engineering, standardization, and a well-structured neural network are key to improving accuracy.
 
-## Next Steps
 
-- Experiment with different ANN architectures.
-- Tune hyperparameters for better performance.
-- Use more advanced techniques like dropout and regularization.
 
----
-
-This README provides a structured breakdown of the project, ensuring clarity while keeping it concise. 🚀
 
